@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Jos%C3%A9%20Francisco&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Back-end%20Java&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Java+%2B+Spring+Boot+%2B+MySQL;Construindo+APIs+REST;Estudante+de+Engenharia+de+Software;Tamb%C3%A9m+fot%C3%B3grafo+%F0%9F%93%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Java+%2B+Spring+Boot+%2B+MySQL;Construindo+APIs+REST;Estudante+de+Engenharia+de+Software;Tamb%C3%A9m+fot%C3%B3grafo" alt="Typing SVG" /></a>
 
 <p>
   <a href="mailto:francisco160807@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 
 </div>
 
-## 👋 Sobre mim
+## Sobre mim
 
 ```java
 public class JoseFrancisco {
@@ -20,11 +20,11 @@ public class JoseFrancisco {
     String estudando  = "Engenharia de Software + Técnico em Desenvolvimento de Sistemas (Senac)";
     String foco       = "Back-end com Java e Spring Boot";
     String[] agora    = {"APIs REST", "Spring Data JPA", "testes com JUnit"};
-    String hobby      = "fotografia 📷 (@avila.jf)";
+    String hobby      = "fotografia (@avila.jf)";
 }
 ```
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -32,7 +32,7 @@ public class JoseFrancisco {
 
 </div>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
@@ -41,7 +41,7 @@ public class JoseFrancisco {
 | [**BookSmart Desktop**](https://github.com/JoseFrancisco-alt/BookSmart4) | Sistema de biblioteca desktop com DAO, regras de empréstimo e testes | Java · Swing · JDBC · MySQL |
 | [**Portfólio de fotografia**](https://github.com/avila-jf/avila-jf.github.io) | Site com galeria automática, imagens otimizadas e deploy contínuo | Astro · JavaScript · GitHub Actions |
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
