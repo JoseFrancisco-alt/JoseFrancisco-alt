@@ -36,6 +36,8 @@ public class JoseFrancisco {
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**Ótica Beco São José**](https://otica-beco-sao-jose.francisco070816.workers.dev) | Loja online de cliente real: catálogo, óculos 3D, escolha de lentes, login, pagamento (Mercado Pago), acompanhamento de pedido e painel da loja *(código privado)* | JavaScript · Vite · Three.js · Supabase · Cloudflare Workers |
+| [**Portfólio do Manoel**](https://manoelink.github.io) | Site de portfólio para tatuador (cliente) | HTML · CSS · JavaScript · GitHub Pages |
 | [**BookSmart Web**](https://github.com/JoseFrancisco-alt/booksmartweb) | API REST de gestão de biblioteca (livros, usuários, empréstimos) em camadas controller → service → repository | Java 17 · Spring Boot 3 · JPA · MySQL |
 | [**Magnobag**](https://github.com/JoseFrancisco-alt/magnobag) | Plataforma de análise de ações da B3, cripto e câmbio, com login seguro, backtests e notícias | Python · Flask · pandas · Supabase |
 | [**BookSmart Desktop**](https://github.com/JoseFrancisco-alt/BookSmart4) | Sistema de biblioteca desktop com DAO, regras de empréstimo e testes | Java · Swing · JDBC · MySQL |
